@@ -35,7 +35,8 @@ ideas = [["Go on a walk", "Challenge yourself to leave your cell phone in your p
 		 ["Figure out a way to make more money", "1. Become a tutor\n2. Sell your junk\n3. Do odd jobs\n4. Invest in domain names\n5. Design something and sell it on Etsy\n6. Give driving lessons"],
 		 ["Update your gadgets", "Make sure you're using the latest operating system on your computer and that your smartphone is up to date"],
 		 ["Drink a full glass of water", "Dehydration can make you sluggish. If you're tired and bored, pour a glass of water and drink it."],
-		 ["Update your personal finances", "Check your savings and checking accounts. Where can you cut back and save more?"]
+		 ["Update your personal finances", "Check your savings and checking accounts. Where can you cut back and save more?"],
+		 ["Watch a movie", "There are lots of movies you can watch for free on youtube"],
 ]
 
 
